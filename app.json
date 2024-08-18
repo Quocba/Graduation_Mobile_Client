@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Eposh",
+    "scheme": "Eposh",
+    "slug": "Eposh",
+    "plugins": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/apk_image.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/apk_image.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCZIhKW0NulqjFtujYQrA0Oe--DPOmDmno"
+        }
+      },
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/apk_image.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.BTD900.EposhBookingApp"
+    },
+    "web": {
+      "favicon": "./assets/apk_image.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ad48b985-8f48-48b2-88d2-ff9fb82df4c0"
+      }
+    }
+  }
+}

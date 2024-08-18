@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101662553663",
+    "project_id": "authphoneeposh",
+    "storage_bucket": "authphoneeposh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101662553663:android:55fd3cb5fe07c49e0bea8a",
+        "android_client_info": {
+          "package_name": "com.BTD900.EposhBookingApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKmuSgv4ECpeu1NOi5sjIzpBwEpYkvfow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
